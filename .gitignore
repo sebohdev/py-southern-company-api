@@ -1,0 +1,4 @@
+.env
+/dist/
+/unofficial_southern_company_api.egg-info/
+/venv/
